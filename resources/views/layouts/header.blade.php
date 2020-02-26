@@ -1,17 +1,62 @@
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-    <meta name="description" content="Robust admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities.">
-    <meta name="keywords" content="admin template, robust admin template, dashboard template, flat admin template, responsive admin template, web app">
-    <meta name="author" content="PIXINVENT">
-    <title>Door 2 Services</title>
-    <link rel="apple-touch-icon" sizes="60x60" href="admin_theme/app-assets/images/ico/apple-icon-60.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="admin_theme/app-assets/images/ico/apple-icon-76.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="admin_theme/app-assets/images/ico/apple-icon-120.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="admin_theme/app-assets/images/ico/apple-icon-152.png">
-    <link rel="shortcut icon" type="image/x-icon" href="admin_theme/app-assets/images/ico/favicon.ico">
-    <link rel="shortcut icon" type="image/png" href="admin_theme/app-assets/images/ico/favicon-32.png">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-touch-fullscreen" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="default">
-
+<div class="top-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 top-left col-sm-12 float-left">
+                        <!--<ul class=" account">-->
+                        <!--    <li class="phone">-->
+                        <!--        <a class="nav-link" href="#"><i class="fa fa-phone" aria-hidden="true"></i>+9176543268</a>-->
+                        <!--    </li>-->
+                        <!--    <li class="mail">-->
+                        <!--        <a class="nav-link" href="#"><i class="fa fa-envelope" aria-hidden="true"></i>info@gmail.com</a>-->
+                        <!--    </li>-->
+                        <!--</ul>-->
+                    </div>
+                    <!-- Links -->
+                    <div class="col-md-6 top-right col-sm-12">
+                        
+                        <div class="float-right tree">
+                            <a href="{{route('home')}}" title="Birth Tree">Find Birth Tree By Date</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header text-center">
+            <div class="container">
+                <div class="row">
+                    <nav class="navbar navbar-expand-md col-md-12">
+                        <!-- Brand/logo -->
+                        <div class="col-md-2 logo col-sm-6 col-xs-6 float-left">
+                            <a class="navbar-brand" href="{{route('home')}}"><img src=" {{asset('images/logo.png')}}" alt="logo"/></a>
+                        </div>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                        <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <!-- Links -->
+                        <div class="col-md-10 col-xs-6 navigation col-sm-6 collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
+                            <ul class="navbar-nav float-right">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{route('home')}}" title="Birth Tree">Birth Tree </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Day of Birth</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Birthday Color</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Birthday Flower</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Birth Number</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Birth Month</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        
