@@ -1,18 +1,15 @@
-
-
-<!-- Start of StatCounter Code -->
-{{-- <p class="text-center">{{'hi'}}</p> --}}
+<!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
-var sc_project=6479135; 
+var sc_project=8162095; 
 var sc_invisible=1; 
-var sc_security="29202006"; 
+var sc_security="9e3dcb42"; 
 </script>
-
 <script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="free hit counter"
-href="http://statcounter.com/free_hit_counter.html"
+src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="godaddy
+statistics"
+href="http://statcounter.com/godaddy_website_tonight/"
 target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/6479135/0/29202006/1/"
-alt="free hit counter" ></a></div></noscript>
-<!-- End of StatCounter Code -->
+src="http://c.statcounter.com/8162095/0/9e3dcb42/1/"
+alt="godaddy statistics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
